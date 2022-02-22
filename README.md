@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Andrew Prostakov, software developer from Belarus.
+Web is my domain, Ruby is my love.
+
+My LinkedIn profile: https://www.linkedin.com/in/andrew-prostakov-2b958596/
+
+Contact: andrewprostakov@gmail.com
+
 <!--
 **a-prostakov/a-prostakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
